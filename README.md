@@ -9,7 +9,7 @@ The project aims to create a vector database using Chroma DB, integrate LangChai
 
 1. **Setting Up Chroma DB:**
    - Chroma DB is used to store vector embeddings locally, providing an open-source alternative to cloud-managed solutions like Pinecone.
-   - Installation involves pip installing Chroma DB and its dependencies.
+   - Installation involves pip installing Chroma DB and its  dependencies.
 
 2. **Loading Documents:**
    - Text documents are loaded using DirectoryLoader and TextLoader from LangChain, enabling batch processing of text data.
